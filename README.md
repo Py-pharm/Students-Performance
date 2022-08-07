@@ -1,6 +1,4 @@
-# (Students' Performance Analysis)
-## by (Mfonobong Umoh)
-
+# Students' Performance Analysis                                                          
 
 ## Dataset
 
