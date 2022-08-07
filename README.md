@@ -2,7 +2,7 @@
 
 ## Dataset
 
-> This data set consists of the marks secured by the students in various subjects. We aim to explore the influence of the parents background, test preparation, etc, on students performance.
+> This data set consists of the marks secured by the students in various subjects. This project aims to explore the influence of the parents background, test preparation, etc, on students performance.
 
 
 ## Summary of Findings
