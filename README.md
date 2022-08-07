@@ -6,14 +6,6 @@
 
 
 ## Summary of Findings
-> In the univariate exploration, most of the students had F grade in writing and Math. Only few students had A's across all the subjects.
-
-> In the bivariate exploration, female students performed better than the male students in math, while the reverse is the case in reading and writing, where male students did better.
-
-> Better performances were also recorded from students who completed their test preparation course.
-
-
-## Key Insights for Presentation
 
 > Students whose parents had a master’s degree had the best performance across all the courses while those with parents with high school degrees had the worst performances. Students whose parents possessed bachelor’s degrees performed persistently well in all the courses.
 
